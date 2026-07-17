@@ -1,4 +1,4 @@
-# Computer-Assisted Microalgae Counting App
+# Computer-Assisted Counting, Labelling and Dataset Microalgae App
 
 An interactive, graphical user interface (GUI) application powered by **PyQt6** and **OpenCV** designed for automated and manual tracking, annotation, profiling, and counting of microalgae in microscopy images. 
 
