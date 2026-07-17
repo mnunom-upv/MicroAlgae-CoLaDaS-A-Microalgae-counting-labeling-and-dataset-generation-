@@ -74,8 +74,4 @@ python main.py
 * Adjust parameter range sliders to control algorithm sensitivity thresholds.
 * Click **"Analyze all"** to launch evaluation loops spanning your loaded image sets, invoking integrated network evaluation sub-panels automatically.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
